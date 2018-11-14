@@ -51,3 +51,23 @@
   right: 0px;
   position: absolute;
   bottom: 0px; }
+
+#reservationModal .modal-header {
+  background: #512DA8;
+  color: floralwhite; }
+
+#reservationModal .modal-body {
+  background: #9575CD; }
+
+#reservationModal .close {
+  color: floralwhite; }
+
+#loginModal .modal-header {
+  background: #512DA8;
+  color: floralwhite; }
+
+#loginModal .modal-body {
+  background: #9575CD; }
+
+#loginModal .close {
+  color: floralwhite; }

@@ -74,3 +74,39 @@ $carousel-item-height: 300px;
     position: absolute;
     bottom: 0px;
 }
+
+#reservationModal {
+
+
+    .modal-header {
+        background: $background-dark;
+        color: floralwhite;
+    }
+
+    .modal-body {
+        background: $background-light;
+    }
+
+    .close {
+        color: floralwhite;
+    }
+
+}
+
+#loginModal {
+
+
+    .modal-header {
+        background: $background-dark;
+        color: floralwhite;
+    }
+
+    .modal-body {
+        background: $background-light;
+    }
+
+    .close {
+        color: floralwhite;
+    }
+
+}
